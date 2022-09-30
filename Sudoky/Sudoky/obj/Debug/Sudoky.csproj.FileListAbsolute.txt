@@ -1,0 +1,10 @@
+C:\Users\asus\Desktop\Projects IT\Учеба\Sudoky\Sudoky\bin\Debug\Sudoky.exe.config
+C:\Users\asus\Desktop\Projects IT\Учеба\Sudoky\Sudoky\bin\Debug\Sudoky.exe
+C:\Users\asus\Desktop\Projects IT\Учеба\Sudoky\Sudoky\bin\Debug\Sudoky.pdb
+C:\Users\asus\Desktop\Projects IT\Учеба\Sudoky\Sudoky\obj\Debug\Sudoky.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Projects IT\Учеба\Sudoky\Sudoky\obj\Debug\Sudoky.Form1.resources
+C:\Users\asus\Desktop\Projects IT\Учеба\Sudoky\Sudoky\obj\Debug\Sudoky.Properties.Resources.resources
+C:\Users\asus\Desktop\Projects IT\Учеба\Sudoky\Sudoky\obj\Debug\Sudoky.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Projects IT\Учеба\Sudoky\Sudoky\obj\Debug\Sudoky.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Projects IT\Учеба\Sudoky\Sudoky\obj\Debug\Sudoky.exe
+C:\Users\asus\Desktop\Projects IT\Учеба\Sudoky\Sudoky\obj\Debug\Sudoky.pdb
